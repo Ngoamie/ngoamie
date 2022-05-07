@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Ngoamie" alt="Ngoamie" />
-
+  
+  <img src="(https://komarev.com/ghpvc/?username=Ngoamie&style=flat-square)"
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="20" height="20"/>
@@ -42,7 +43,6 @@ Here are some ideas to get you started:
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Ngoamie&show_icons=true" alt="Ngoamie" />
   <img  align="right" src="https://github.com/Ngoamie/Ngoamie/blob/master/gifs/3aM.gif" width="230">
-  <img src="https://komarev.com/ghpvc/?username=Ngoamie&color=ff69b4"
  </p>
  <!--
 
