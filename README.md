@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=Ngoamie" color="ff69b4" style="for-the-badge" alt="Ngoamie" />
+<img src="https://komarev.com/ghpvc/?username=Ngoamie" alt="Ngoamie" />
   
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="20" height="20"/> 
@@ -53,3 +53,6 @@ Here are some ideas to get you started:
  <a href="https://twitter.com/tori_etim/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/tori_etim/" height="20" width="20" /></a>
 
 </p>
+
+
+
