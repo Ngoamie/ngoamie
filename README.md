@@ -49,13 +49,13 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://linkedin.com/in/victoria-etim-5109b9177/" target="blank">
-  <img align="center" src="https://github.com/Ngoamie/ngoamie-profile/blob/923defa6e610ed04a1ec55eb2ca28a610cb1a34d/Linkedin.svg" alt="https://linkedin.com/in/victoria-etim-5109b9177/" height="20" width="20" />
+  <img align="center" src="https://github.com/Ngoamie/ngoamie-profile/blob/main/Linkedin.svg" alt="https://linkedin.com/in/victoria-etim-5109b9177/" height="20" width="20" />
   </a>
   <a href="https://www.instagram.com/tori_etim/" target="blank">
-    <img align="center" src="https://github.com/Ngoamie/ngoamie-profile/blob/919a11bc81ed37f8b6d5f8f70c874b9af31df35f/Instagram.svg" alt="https://www.instagram.com/tori_etim/" height="20" width="20" />
+    <img align="center" src="https://github.com/Ngoamie/ngoamie-profile/blob/main/Instagram.svg" alt="https://www.instagram.com/tori_etim/" height="20" width="20" />
   </a>
  <a href="https://twitter.com/tori_etim" target="blank">
-   <img align="center" src="https://github.com/Ngoamie/ngoamie-profile/blob/919a11bc81ed37f8b6d5f8f70c874b9af31df35f/Twitter.svg" alt="https://twitter.com/tori_etim" height="20" width="20" />
+   <img align="center" src="https://github.com/Ngoamie/ngoamie-profile/blob/main/Twitter.svg" alt="https://twitter.com/tori_etim" height="20" width="20" />
   </a>
 
 </p>
