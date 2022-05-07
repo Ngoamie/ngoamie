@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://linkedin.com/in/victoria-etim-5109b9177/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://linkedin.com/in/victoria-etim-5109b9177/" height="20" width="20" /></a>
   <a href="https://www.instagram.com/tori_etim/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tori_etim/" height="20" width="20" /></a>
- <a href="https://twitter.com/tori_etim/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/tori_etim/" height="20" width="20" /></a>
+ <a href="https://twitter.com/tori_etim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/tori_etim" height="20" width="20" /></a>
 
 </p>
 
