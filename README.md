@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Ngoamie&show_icons=true" alt="Ngoamie" />
   <img  align="right" src="https://github.com/Ngoamie/Ngoamie/blob/master/gifs/3aM.gif" width="230">
+  <img src="https://komarev.com/ghpvc/?username=Ngoamie&color=ff69b4"
  </p>
  <!--
 
