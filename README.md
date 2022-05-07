@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Ngoamie" alt="Ngoamie" />
   
-  <img src="(https://komarev.com/ghpvc/?username=Ngoamie&style=flat-square)"
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="20" height="20"/>
